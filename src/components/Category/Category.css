@@ -1,0 +1,9 @@
+.bg{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-attachment: fixed; 
+}
